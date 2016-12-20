@@ -1,0 +1,96 @@
+This document is a record of thoughts.
+
+------------------------
+Becomming More Conscious
+------------------------
+
+Interleaving activities with questions that probe their nature and motive is one way of becomming more consious of oneself. Why am I doing this? If the activity undertaken is writing, why am I writing? This clarifies the motive of the action. Depending on the activity involved, subsequent questions will assume different forms. Continuing with the example of writing, one obvious question that comes up is : "what sentence do I write". This may seem trivial, but staring at a blank word document is not an uncommon experience. This leads to a deeper question : "what is the role of a sentence". We will attempt to answer this. Every sentence that is written must be preceded by a thought of the idea to be expressed. A sentence can't be written in an arbitrary fashion. In some sense, it is similar to the way code is written. The algorithm comes before the code. The code is an expression of the algorithm. Of course, code has immense utility in terms of concretizing the idea of the algorithm. Likewise, a sentence makes explicit some thought in the mind of the writer. Note that by the word explicit it is not meant that the written sentence is clearer than the thought. The sentence may express a thought that is itself vague, and expressing such a thought in written form doesn't remove the cloud of confusion surrounding it. Instead, it faithfully reproduces the vague thought along with all its other features. Writing, then, becomes a transfer of thoughts from the mind to the paper. We have discussed the role of a sentence treating it as an atomic unit of a document. But a sentence doesn't exist in isolation. It is surrounded by other sentences. Thus the next question is : "how is a sentence related to other sentences". Complex ideas may require multiple sentences for their expression. There is a natural ordering of sentences that mimics the flow of the thoughts that make up an idea. Also, sentences often assume the role of connectors between different parts of a document, such as the opening and ending sentences of a paragraph. More generally, every sentence has a source and a destination. A well placed sentence is one whose source coincides with the destination of the previous sentence while simultaneously developing the thought that will act as the source for the next sentence. There is so much to writing a sentence. Given this understanding, we can summarize the questions that must be asked before writing a sentence: what thought do I wish to express? where does my last sentence leave me? where do I want my current sentence to lead me? When pictured this way, writing becomes a journey, carefully and systematically meandering through a sea of ideas.
+
+What has been stated here holds good for any activity. But, as one might rightly ask, how does this business of self-questioning help in widening one's consiousness? Before proceeding to the answer, there is a caveat in applying this method. A mechanical questioning, or an insincere response is a futile attempt and will not lead us anywhere. Indeed, after a few attempts, this process leads to disillusionment and a return to ignorant ways of acting. That said, the benefits of self-questioning are twofold. First, it exposes the current state of one's consiousness. For example, if the answer to the question - "why am I writing" - is not spontaneous, it shows that the motives for writing are not clear. The motive might be to impress others, it might be an honest attempt at expressing one's thoughts, or it might be to improve one's skills at writing. But unless one is able to convince oneslef, it is clear that a confusion about the motives of the action persists, or worse, one has not even thought about them. Secondly, the effort to answer the question results in removing this cloud of ignorance. It results in greater awareness of myself and the action I must perform. Earlier, I was not clear about my motives. Now I know why I write. This process of self-questioning exposes the questioner to inner states of his being, helps him identify better with the action that is being done. In other words, one becomes more conscious of oneself, and also of the action that one is performing.
+
+-------------------------------------------------------------------
+Organization of Ideas; Mental Palace; Incoherence and Communication
+-------------------------------------------------------------------
+
+
+----------------------------------------------------------
+The Sources of Fear; Role of Discipline; Role of Knowledge
+----------------------------------------------------------
+
+
+------------------------------
+Systems Thinking for Education
+------------------------------
+
+
+--------------------------
+Discipline and Determinism
+--------------------------
+
+----------------------------------------------------------
+The First Five Minutes; Crossing the Threshold of Interset
+----------------------------------------------------------
+
+
+-------------------------
+Uniformity in Experiences
+-------------------------
+Comparing individuals based on their experiences, and expecting both of them to go through the same thing just because one of these guys benefitted a lot from that experience is not a sound argument. 
+
+----------------------------------------------
+On the utility of reading, acquiring knowledge
+----------------------------------------------
+
+Reading leaves impressions. Reading is not studying. Being nostalgic about what has been read is boring. The mind is not just a storehouse of information. It is something more than that. Ideas will not automatically form connections. 
+
+In the Plato's Phaedrus, Socrates records his opinions on the written word:
+"The specific (writing) which you have discovered is an aid not to memory, but to reminiscence, and you give your disciples not truth, but only the semblance of truth; they will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality."
+
+This accurately captures my mental state as a reader. I can reminiscence about reading a lot of books. I don't possess any substantial knowledge about the thing I read, only a semblance of it. I have familiarised myself with a lot of terms, jargons, the meaning of none of have sunk into me. I give the appearance of being all knowing, yet I am accutely aware of my ignorance. The last line by Socrates would have been equally true in my case but I haven't had enough conversations with people to validate that claim. Reading is an intellectual entertainment, nothing more than that. If you read the right books, it can inspire you. That is one function that good books serve - they are good company - satsangam. But it stops there. Reading doesn't take one far, and if pushed to its extreme can introduce illusions of competence and understanding. The reason is simple - reading is a passive activity. We mistakenly expect paragraphs that we read to automatically reveal their essence, form relevant connections among themselves, and embed them into our memories. Such a complex activity may happen automatically in exceptional minds, but in general, a conscious effort of organization is necessary to achive the results. In short, active reading or studying should replace passive reading.
+We need to go one step further and ask what the utility of acquiring knowledge is? Suppose you have a faultless memory that records everything, would the acqusition of knowledge be an interesting occupation? It wouldn't. Our current perception about the human mind is very naive. Though the memory is a crucial component of the mind, it is not the mind. What is the use of having a computer without knowing how to program? Having a store of ideas is indispensable, but of itself it is not interesting. The tool is far more imporatant than the content on which the tool operates. This is what Sri Aurobindo says:
+
+"It is a fundamental & deplorable error by which we in this country have confused education with the acquisition of knowledge and interpreted knowledge itself in a singularly narrow & illiberal sense. To give the student knowledge is necessary, but it is still more necessary to build up in him the power of using his knowledge. It would hardly be a good technical education for a carpenter to be taught how to fell trees so as to provide himself with wood & never to learn how to prepare tables, chairs & cabinets or even what tools were necessary for his craft. Yet this is precisely what our system of education does. It trains the memory and provides the student with a store of facts & second-hand ideas. The memory is the woodcutter’s axe and the store he acquires is the wood he has cut down in his course of tree felling. When he has done this, the University says to him “We now declare you a Bachelor of Carpentry; we have given you a good & sharp axe and a fair nucleus of wood to begin with. Go on, my son, the world is full of forests and provided the Forest Officer does not object you can cut down trees & provide yourself with wood to your heart’s content.” Now the student who goes forth thus equipped, may become a great timber-merchant but unless he is an exceptional genius he will never be even a moderate carpenter. Or to return from the simile to the fact, the graduate from our colleges may be a good clerk, a decent vakil or a tolerable medical practitioner, but unless he is an especial genius, he will never be a great administrator or a great lawyer or an eminent medical specialist."
+
+Knowledge is infinite, it is also relative. A thirst for knowledge is a good quality, but one quickly realises that it is impossible to know everything. Even in hyperspecialized fields of study, information is exploding and growing at an unprecedented rate. We can spend all our lives exploring a single idea, and yet not exhaust the collective wisdom on it. So we must dethrone knowledge acquisition from the top of the priority queue of learning, ensuring that it is not trivialized - for nothing can be done without knowledge just as houses can't be built without bricks - and place it at a respectable level in the scheme of things.
+
+What then is a good ideal? It is a threefold effort. First, to apprehend the idea, look at it from a distance, try to understand its form and surroundings. Then to grasp it, refine our understanding of its form, come to terms with its varied components, and gain an appreciation of its complexity. Finally, to grok it, become the idea, merge the self with the it, a complete identity with the idea. But this should be done with an absolute sincerity, for the sake of knowing the idea. The tiniest bit of insincerity distorts what we receive. Consequently, what we get is not the original idea, but some derivative of it that lacks the power and purity of its parent. Ideas give us what we ask them (Ye yatha mam prabadhyante tamstataiva mam bajamyaham). If we seek them for utility only, they give us exactly what is required for our purpose. If we read Newton's laws so that it can help us clear examinations, only so much of its power will come to us - exactly that which is sufficient for our purposes. But what we have stated is just a preliminary effort. To stop here would mean to rest contented at the base of the Himalayas. What was all this effort for? It is not merely a personal desire to acquire knowledge, but to use them to train the mental faculties of reasoning, comparison and expression, so that one can become a perfect instrument for the Divine to his play sweet melodies.
+
+But one problem presents itself here. As Longfellow says, since "art is long and time is fleeting", how does one choose ideas? The argument that we choose them based on their future utility is baseless. What is your future going to be like? If you have a clear vision of your future, you can pick and choose ideas that lend themselves to this vision. If not, this will take you nowhere. In fact, such a fixity in thought may stifle your growth. Besides you need to become consious of yourself before you can understand your place in the universal work. The guiding rule should be to choose the most fundamental and powerful ideas in the temporary occupation that you have chosen. Not a pedantic acquisition of a mass of minute details but a perfect understanding of foundational ideas is the need of the hour.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

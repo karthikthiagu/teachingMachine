@@ -8,7 +8,6 @@ class LearningStack:
     def __init__(self, family):
         self.stack = []
         self.family = family
-        print 'LearningStack for the family of ideas ---%s--- created' % family
 
     # Create an idea-template
     def createIdea(self, idea):

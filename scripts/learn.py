@@ -6,11 +6,13 @@ from learningStack import LearningStack
 
 families = 'families'
 
+# Add a new family - this will create a learning stack for this family of ideas
 def addFamily(name):
     ls = LearningStack(name)
     jsonfile = os.path.join(families, '_'.join(name.split(' ')) + '.json')
     ls.writeToJSON(jsonfile)
 
+# Add an idea to this family, update the relationship with this idea at this state
 def addIdea(family, name, relationship):
     ls = LearningStack(family)
     jsonfile = os.path.join(families, '_'.join(family.split(' ')) + '.json')
@@ -20,6 +22,7 @@ def addIdea(family, name, relationship):
     ls.pushIdea(idea)
     ls.writeToJSON(jsonfile)   
 
+# View the state of the family; Print the stack
 def viewFamily(family):
     ls = LearningStack(family)
     jsonfile = os.path.join(families, '_'.join(family.split(' ')) + '.json')
@@ -28,6 +31,7 @@ def viewFamily(family):
     ls.printFamily()
     print '---------------'
 
+# Cycle the family; Push the idea at the bottom of the stack onto the top
 def cycleFamily(family, relationship):
     ls = LearningStack(family)
     jsonfile = os.path.join(families, '_'.join(family.split(' ')) + '.json')
